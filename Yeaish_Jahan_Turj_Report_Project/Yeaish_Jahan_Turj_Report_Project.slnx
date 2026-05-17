@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="DebugLocal" />
+    <BuildType Name="Release" />
+    <Platform Name="Default" />
+  </Configurations>
+  <Project Path="Yeaish_Jahan_Turj_Report_Project/Yeaish_Jahan_Turj_Report_Project.rptproj">
+    <Deploy Solution="Debug|*" />
+    <Deploy Solution="Release|*" />
+  </Project>
+</Solution>
